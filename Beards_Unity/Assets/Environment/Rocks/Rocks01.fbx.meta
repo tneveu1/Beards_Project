@@ -9,10 +9,12 @@ ModelImporter:
     100002: Rock02
     100004: Rock03
     100006: //RootNode
+    100008: transform1
     400000: Rock01
     400002: Rock02
     400004: Rock03
     400006: //RootNode
+    400008: transform1
     2300000: Rock01
     2300002: Rock02
     2300004: Rock03
