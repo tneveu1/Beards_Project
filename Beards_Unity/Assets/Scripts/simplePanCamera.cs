@@ -20,10 +20,10 @@ public class simplePanCamera : MonoBehaviour {
 			transform.Translate(Vector3.up * panSpeed * Time.deltaTime);
 		}
 		if (Input.GetKey (KeyCode.A)) {
-			transform.Translate (Vector3.left * panSpeed * Time.deltaTime);
+			transform.Translate (Vector3.right * panSpeed * Time.deltaTime);
 		}
 		if (Input.GetKey (KeyCode.D)) {
-			transform.Translate (Vector3.right * panSpeed * Time.deltaTime);
+			transform.Translate (Vector3.left * panSpeed * Time.deltaTime);
 		}
 		if (Input.GetKey (KeyCode.S)) {
 			transform.Translate (Vector3.down * panSpeed * Time.deltaTime);
