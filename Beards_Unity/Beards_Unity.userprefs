@@ -1,16 +1,8 @@
 ﻿<Properties>
-<<<<<<< Updated upstream
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\simplePanCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/worldGeneratorTest.cs">
     <Files>
-      <File FileName="Assets\Scripts\testCreate.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\simplePanCamera.cs" Line="26" Column="38" />
-=======
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/simplePanCamera.cs">
-    <Files>
-      <File FileName="Assets/Scripts/simplePanCamera.cs" Line="26" Column="37" />
->>>>>>> Stashed changes
+      <File FileName="Assets/Scripts/worldGeneratorTest.cs" Line="14" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

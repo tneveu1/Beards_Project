@@ -10,6 +10,7 @@ GameObject:
   - 4: {fileID: 427550}
   - 33: {fileID: 3344954}
   - 23: {fileID: 2368036}
+  - 65: {fileID: 6586248}
   m_Layer: 0
   m_Name: Shaft
   m_TagString: Untagged
@@ -60,6 +61,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 149964}
   m_Mesh: {fileID: 4300018, guid: 2601d33a81286364fa430dbb6b58e686, type: 3}
+--- !u!65 &6586248
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149964}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 300, y: 300, z: 300}
+  m_Center: {x: 150, y: 150, z: -150}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
